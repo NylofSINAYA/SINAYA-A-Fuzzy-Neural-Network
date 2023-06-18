@@ -41,10 +41,8 @@ pip install tensorflow keras numpy pandas scikit-learn
 1. Clone the repository:
 
 ```shell
-git clone <repository-url>
+git clone <[repository-url](https://github.com/frfrsimp/SINAYA-A-Fuzzy-Neural-Network/tree/main)>
 ```
-
-Replace `<repository-url>` with the URL of this GitHub repository.
 
 2. Navigate to the repository directory:
 
