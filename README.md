@@ -1,8 +1,6 @@
 # SINAYA-A-Fuzzy-Neural-Network
 A Fuzzy Neural Network Model aimed to infer the ammonia level based on the actual measured values of pH, Dissolved Oxygen, and Temperature.
-Certainly! Here's an example of a README file you can include in your GitHub repository to provide information about your code:
 
-```
 # Ammonia Concentration Prediction using Fuzzy Neural Network
 
 This repository contains code for training a neural network model that uses fuzzy logic to predict the concentration of ammonia based on pH, dissolved oxygen (DO), and temperature inputs.
